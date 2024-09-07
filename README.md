@@ -8,6 +8,17 @@ CineSuggest is a Python application that recommends movies based on users' previ
 - **Interactive Display:** Displays recommended movies using Pygame.
 - **Web Scraping:** Uses Selenium and Pillow to scrape movie images for a richer user experience.
 
+## Tech Stack
+
+- **Backend**: Python
+- **Libraries/Tools**:
+  - Selenium
+  - Pillow
+  - NumPy
+  - Pygame
+  - Pyplot
+- **Frontend**: Pygame (for any graphical elements)
+
 ## Prerequisites
 
 - Python 3.x
